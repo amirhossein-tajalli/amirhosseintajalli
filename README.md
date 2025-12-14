@@ -4,7 +4,7 @@ Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assista
 
 ## ⚠️ Disclaimer
 
-This is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
+**[amirhossein-tajalli](https://github.com/amirhossein-tajalli)** is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
 
 ## ℹ️ About
 
