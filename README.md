@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
+       alt="Amirhossein Tajalli - GitHub Profile Image"
+       width="160" height="160">
+</p>
+
 # Amirhossein Tajalli
 
 Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer
