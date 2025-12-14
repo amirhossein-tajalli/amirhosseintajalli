@@ -1,8 +1,6 @@
-# amirhosseintajalli
+# Amirhossein Tajalli
 
-# Amirhossein Tajalli - Name Variant
-
-**PhD MechEng Researcher** | CAD Automation
+**Researcher & Developer**
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseintajalli)
