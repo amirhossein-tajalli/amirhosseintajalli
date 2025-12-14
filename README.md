@@ -1,11 +1,11 @@
 # Amirhossein Tajalli
 
-**Researcher & Developer**
+Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant | CAD Designer | Developer
 
-## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseintajalli)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5525--2861-blue?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5525-2861)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amirhossein--tajalli.github.io-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://amirhossein-tajalli.github.io)
+## ⚠️ Disclaimer
 
-## 🚧 Under Development
-Projects will be added soon.
+This is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
+
+## 🌐 Connect
+
+[![linkedin](https://img.shields.io/badge/linkedin-Amirhossein%20Tajalli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseintajalli)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![orcid](https://img.shields.io/badge/orcid-0009--0007--5525--2861-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5525-2861)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio](https://img.shields.io/badge/portfolio-amirhossein--tajalli.github.io-6e5494?style=flat&logo=github&logoColor=white)](https://amirhossein-tajalli.github.io)
