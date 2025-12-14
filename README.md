@@ -1,13 +1,10 @@
-<div>
-  <img align="left" src="https://avatars.githubusercontent.com/amirhossein-tajalli"
-       alt="Amirhossein Tajalli - GitHub Profile Image"
-       width="110" height="110" style="margin-right:16px;">
+<img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
+     alt="Amirhossein Tajalli - GitHub Profile Image"
+     width="120" height="120">
 
-  <h1>Amirhossein Tajalli</h1>
-  <p>Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer</p>
-</div>
+# Amirhossein Tajalli
 
-<br clear="left" />
+Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer
 
 ## ⚠️ Disclaimer
 
