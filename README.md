@@ -1,6 +1,6 @@
 # Amirhossein Tajalli
 
-Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant | CAD Designer | Developer
+Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer
 
 ## ⚠️ Disclaimer
 
