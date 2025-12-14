@@ -1,16 +1,17 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
+<div>
+  <img align="left" src="https://avatars.githubusercontent.com/amirhossein-tajalli"
        alt="Amirhossein Tajalli - GitHub Profile Image"
-       width="160" height="160">
-</p>
+       width="110" height="110" style="margin-right:16px;">
 
-# Amirhossein Tajalli
+  <h1>Amirhossein Tajalli</h1>
+  <p>Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer</p>
+</div>
 
-Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer
+<br clear="left" />
 
 ## ⚠️ Disclaimer
 
-**[amirhossein-tajalli](https://github.com/amirhossein-tajalli)** is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
+**amirhossein-tajalli** is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
 
 ## ℹ️ About
 
@@ -20,4 +21,4 @@ Driven by curiosity and genuine eagerness to learn, I embrace challenges as oppo
 
 ## 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirhossein%20Tajalli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseintajalli)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5525--2861-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5525-2861)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-amirhossein--tajalli.github.io-6e5494?style=flat&logo=github&logoColor=white)](https://amirhossein-tajalli.github.io)
+![LinkedIn](https://linkedin.com/in/amirhosseintajalli)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ORCID](https://orcid.org/0009-0007-5525-2861)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Portfolio](https://amirhossein-tajalli.github.io)
